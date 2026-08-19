@@ -90,4 +90,4 @@ Talla Cisse Barro
 Ndeye Anta Toure
 Mouhamed Fane
 
-Projet réalisé dans le cadre du cours de M. DIALLO - Licence 2 RI-CS.
+Projet réalisé dans le cadre du cours de M. DIALLO - Licence 2 RI.
